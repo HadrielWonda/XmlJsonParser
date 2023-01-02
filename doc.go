@@ -1,2 +1,2 @@
-// Package xml2json is an XML to JSON converter
-package xml2json
+// Package xmljsonparser is an XML to JSON converter
+package xmljsonparser
