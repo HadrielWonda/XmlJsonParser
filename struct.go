@@ -1,4 +1,4 @@
-package xml2json
+package xmljsonparser
 
 import (
 	"strings"
